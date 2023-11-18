@@ -38,6 +38,7 @@ This is uncompiled so it won't work as is on Switch! Compile the patches with IP
 - 9.20
 - 9.30.1
 - 9.41
+- 10.00
 - 10.10
 - 10.30
 - 10.31
